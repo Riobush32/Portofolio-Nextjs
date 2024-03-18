@@ -5,8 +5,9 @@ const Contents = () => {
         <>
             <div className="hero min-h-screen">
                 <div className="hero-content flex-col lg:flex-row-reverse w-full justify-between">
-                    <div className="relative w-[300px] h-[300px] md:w-[500px] md:h-[500px]">
+                    <div className="relative w-[300px] h-[300px] md:w-[500px] md:h-[500px] relative">
                         <Image src="/assets/img/me.png" fill={true} alt="me" className="rounded-lg shadow-2xl md:shadow-none" />
+                        <div className="w-3/4 h-3/4 rounded-full -z-10 bottom-0 right-6 absolute bg-secondary"></div>
                     </div>
                     <div className="h-[500px] relative flex items-center">
                         <div className="">
