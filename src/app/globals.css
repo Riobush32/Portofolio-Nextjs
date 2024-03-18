@@ -9,8 +9,8 @@
 }
 
 @font-face {
-  font-family : 'Poppins';
-  src : url('Poppins/Poppins-Regular.ttf') format ('truetype');
+  font-family : 'Roboto';
+  src : url('/Roboto/Roboto/Regular') format ('truetype');
 }
 
 @media (prefers-color-scheme: dark) {
@@ -22,7 +22,7 @@
 }
 
 body {
-  font-family : 'Poppins';
+  font-family : 'Roboto';
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
       to bottom,

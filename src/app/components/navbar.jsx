@@ -25,10 +25,10 @@ const Navbar = () => {
             {/* pc display  */}
             <div className="navbar bg-transparent hidden md:block">
                 <div>
-                    <a className="btn btn-ghost text-xl mr-8 hover:text-secondary">Home</a>
-                    <a className="btn btn-ghost text-xl mr-8 hover:text-secondary">Portofolio</a>
-                    <a className="btn btn-ghost text-xl mr-8 hover:text-secondary">Blog</a>
-                    <a className="btn btn-ghost text-xl mr-8 hover:text-secondary">Contact</a>
+                    <a className="btn btn-ghost text-lg mr-8 hover:text-secondary">Home</a>
+                    <a className="btn btn-ghost text-lg mr-8 hover:text-secondary">Portofolio</a>
+                    <a className="btn btn-ghost text-lg mr-8 hover:text-secondary">Blog</a>
+                    <a className="btn btn-ghost text-lg mr-8 hover:text-secondary">Contact</a>
                 </div>
             </div>
         </>
