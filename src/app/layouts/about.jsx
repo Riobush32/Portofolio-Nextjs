@@ -3,11 +3,11 @@ import { MaskContainer } from "../components/ui/svg-mask-effect"
 const About = () => {
     return (
         <>
-            <div className="hero bg-neutral py-16 pt-2">
+            <div className="hero bg-neutral py-16 pt-2" id="about">
                 
                     <div className="hero-content w-[95vw] mx-auto grid grid-cols-1 place-items-center">
                         <h1 className="mt-5 text-3xl font-bold">About Me</h1>
-                    <div className="border-b-secondary border-b-2 w-[200px]"></div>
+                        <div className="-mt-5 border-t-secondary border-t-2 w-[200px]"></div>
                     <MaskContainer
                         revealText={
                             <>
