@@ -3,6 +3,8 @@ import Image from "next/image";
 import Hero from "./layouts/hero";
 import About from "./layouts/about";
 import Skills from "./layouts/skills";
+import Sertifikat from "./layouts/sertifikat"
+import Footer from "./layouts/footer"
 
 import React from "react";
 import { FloatingNav } from "./components/ui/floating-navbar";
@@ -35,6 +37,8 @@ export default function Home() {
         <Hero />
         <About />
         <Skills />
+        <Sertifikat />
+        <Footer />
     </div>
 
     </>

@@ -44,7 +44,7 @@ const Contents = () => {
                                     
                                 </div>
                             </div>
-                            <a href="" className="ml-1 text-sm" ><span className="text-secondary">Download</span> curriculum vitae</a>
+                            <a href="/assets/cv.pdf" download className="ml-1 text-sm" ><span className="text-secondary">Download</span> curriculum vitae</a>
                         </div>
                     </div>
                 </div>
