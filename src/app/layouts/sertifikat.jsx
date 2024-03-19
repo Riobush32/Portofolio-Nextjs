@@ -11,18 +11,18 @@ const Sertifikat = () => {
                                 <h1 className=" md:text-4xl text-3xl font-bold">Sertifikat</h1>
                                 <div className="border-t-secondary border-t-2 w-[200px]"></div>
                             
-                                <div className="mt-10 mb-5 flex flex-wrap justify-center items-center md:w-[80vw]">
+                                <div className="mt-10 mb-5 flex flex-wrap justify-center items-center md:w-[85vw]">
                                     <div className="md:m-5 mt-2 scale-75 md:scale-100 card w-96 bg-base-100 shadow-xl shadow-slate-500 rounded-lg overflow-hidden">
-                                        <figure><img src="/assets/img/laravel.png" alt="laravel" /></figure>                                    
+                                        <figure><img src="/assets/img/html.png" alt="html" /></figure>                                    
                                     </div>
                                     <div className="md:m-5 mt-2 scale-75 md:scale-100 card w-96 bg-base-100 shadow-xl shadow-slate-500 rounded-lg overflow-hidden">
-                                        <figure><img src="/assets/img/laravel.png" alt="laravel" /></figure>                                    
+                                        <figure><img src="/assets/img/css.png" alt="css" /></figure>                                    
                                     </div>
                                     <div className="md:m-5 mt-2 scale-75 md:scale-100 card w-96 bg-base-100 shadow-xl shadow-slate-500 rounded-lg overflow-hidden">
-                                        <figure><img src="/assets/img/laravel.png" alt="laravel" /></figure>                                    
+                                        <figure><img src="/assets/img/bootstraps.png" alt="bootstraps" /></figure>                                    
                                     </div>
                                     <div className="md:m-5 mt-2 scale-75 md:scale-100 card w-96 bg-base-100 shadow-xl shadow-slate-500 rounded-lg overflow-hidden">
-                                        <figure><img src="/assets/img/laravel.png" alt="laravel" /></figure>                                    
+                                        <figure><img src="/assets/img/tailwindcss.png" alt="tailwindcss" /></figure>                                    
                                     </div>
                                     <div className="md:m-5 mt-2 scale-75 md:scale-100 card w-96 bg-base-100 shadow-xl shadow-slate-500 rounded-lg overflow-hidden">
                                         <figure><img src="/assets/img/laravel.png" alt="laravel" /></figure>                                    
