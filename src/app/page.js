@@ -32,7 +32,7 @@ export default function Home() {
     ]
   return (
     <>
-      <div className="relative  w-full">
+      <div className="relative  w-full text-white">
         <FloatingNav navItems={navItems} />
         <Hero />
         <About />

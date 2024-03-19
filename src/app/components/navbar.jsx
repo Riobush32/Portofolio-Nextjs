@@ -2,7 +2,7 @@ const Navbar = () => {
     return (
         <>
             {/* mobile display */}
-            <div className="navbar bg-transparent md:hidden">
+            <div className="navbar bg-transparent md:hidden text-white">
                 <div className="navbar-start">
                     <div className="dropdown">
                     <div tabIndex={0} role="button" className="btn btn-ghost btn-circle">
@@ -23,7 +23,7 @@ const Navbar = () => {
             </div>
 
             {/* pc display  */}
-            <div className="navbar bg-transparent hidden md:block">
+            <div className="navbar bg-transparent hidden md:block text-white">
                 <div>
                     <a className="btn btn-ghost text-lg mr-8 hover:text-secondary">Home</a>
                     <a className="btn btn-ghost text-lg mr-8 hover:text-secondary">Portofolio</a>
