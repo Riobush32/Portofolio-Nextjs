@@ -62,7 +62,7 @@ export default function LovePage() {
                 Happy Birthday, SayangKu <br /> Adida Mitha Adelia Panjaitan.
             </h2>
             <p className="max-w-xl mx-auto text-sm md:text-lg text-neutral-700 dark:text-neutral-400 text-center">
-            Semoga semua yang sayang inginkan tercapai dan tahun ini jadi lebih baik dari yang sebelumnya. Terima kasih sudah membuat hidupku lebih bahagia. Ayang selalu bertambah istimewa setiap tahunnya
+            Semoga semua yang sayang inginkan tercapai dan tahun ini jadi lebih baik dari yang sebelumnya. Terima kasih sudah membuat hidupku lebih bahagia. Ayang selalu bertambah istimewa setiap tahunnya untukku
             </p>
         </BackgroundLines>
         <div className="px-5 py-3 text-xs">
